@@ -11,6 +11,10 @@ usage:
 
 licence: [CC BY-NC-SA 4.0 Intl](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). Do what you like with it, just credit me, don't make money off it, and share your work on the same licence.
 
+anti-ai statement: i do not use generative AI in any stage of production, and you are not to upload anything i create to any ai/ml system for training, repurposing/modification, or any other purpose.
+
+...i mean seriously. do you want to anger the cybergods? that is how you anger the cybergods.
+
 example:
 ```
 ~/bibl$ ./bibl process shrek.txt shrek.out
