@@ -12,7 +12,8 @@ usage:
 licence: [CC BY-NC-SA 4.0 Intl](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). Do what you like with it, just credit me, don't make money off it, and share your work on the same licence.
 
 example:
-```~/bibl$ ./bibl process shrek.txt shrek.out
+```
+~/bibl$ ./bibl process shrek.txt shrek.out
 ~/bibl$ ./bibl reading shrek.out 3
 File has 1750 lines. Chosen line is number 1548. Viewing lines 1545 to 1551:
 1545 -- -Well, you know.
